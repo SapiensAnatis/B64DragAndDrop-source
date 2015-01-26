@@ -16,3 +16,4 @@ e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Final\SimpleB64Converter.csproj.GenerateResource.Cache
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Final\SimpleB64Converter.exe
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Final\SimpleB64Converter.pdb
+e:\Users\jay0_000\Documents\Visual Studio 2013\Projects\B64DragAndDrop\B64Window\obj\Final\SimpleB64Converter.csprojResolveAssemblyReference.cache

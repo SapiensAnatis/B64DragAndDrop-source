@@ -46,6 +46,10 @@ namespace B64Window
                 {
                     OTB.Text = output;
                 }
+
+                
+                IMGPanel.Source = new BitmapImage(new Uri(FileList[0]));
+                
             }
         }
 

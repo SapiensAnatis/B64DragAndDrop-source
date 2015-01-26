@@ -1,8 +1,3 @@
-e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\bin\Release\B64Window.exe.config
-e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\B64Window.exe
-e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\B64Window.pdb
-e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\bin\Release\B64Window.exe
-e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\bin\Release\B64Window.pdb
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\bin\Release\MahApps.Metro.dll
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\bin\Release\System.Windows.Interactivity.dll
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\bin\Release\MahApps.Metro.xml
@@ -12,8 +7,13 @@ e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\MainWindow.g.cs
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\Resources\Icons.g.cs
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\App.g.cs
-e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\B64Window_MarkupCompile.cache
-e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\B64Window.g.resources
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\B64Window.Properties.Resources.resources
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\SimpleB64Converter.csproj.GenerateResource.Cache
 e:\users\jay0_000\documents\visual studio 2013\Projects\B64DragAndDrop\B64Window\bin\Release\SimpleB64Converter.exe.config
+e:\Users\jay0_000\Documents\Visual Studio 2013\Projects\B64DragAndDrop\B64Window\bin\Release\SimpleB64Converter.exe
+e:\Users\jay0_000\Documents\Visual Studio 2013\Projects\B64DragAndDrop\B64Window\bin\Release\SimpleB64Converter.pdb
+e:\Users\jay0_000\Documents\Visual Studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\SimpleB64Converter_MarkupCompile.cache
+e:\Users\jay0_000\Documents\Visual Studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\SimpleB64Converter.g.resources
+e:\Users\jay0_000\Documents\Visual Studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\SimpleB64Converter.exe
+e:\Users\jay0_000\Documents\Visual Studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\SimpleB64Converter.pdb
+e:\Users\jay0_000\Documents\Visual Studio 2013\Projects\B64DragAndDrop\B64Window\obj\Release\SimpleB64Converter.csprojResolveAssemblyReference.cache
